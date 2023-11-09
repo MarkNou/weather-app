@@ -7,7 +7,7 @@ import City from './src/screens/City'
 
 const App = () => {
   return(
- <City/>
+ <CurrentWeather />
   )
 }
 
